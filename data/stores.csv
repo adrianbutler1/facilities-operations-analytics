@@ -1,0 +1,121 @@
+store_id,store_name,region,store_format,sq_ft,open_year
+S001,Store 001,Central TX,Standard,77500,1998
+S002,Store 002,Central TX,Express,23000,2010
+S003,Store 003,Central TX,Large,111000,2023
+S004,Store 004,Central TX,Standard,80000,2014
+S005,Store 005,Central TX,Large,123500,1999
+S006,Store 006,Central TX,Standard,61000,2021
+S007,Store 007,Central TX,Standard,69000,2016
+S008,Store 008,Central TX,Standard,70500,1988
+S009,Store 009,Central TX,Standard,86000,1980
+S010,Store 010,Central TX,Express,29500,2007
+S011,Store 011,Central TX,Standard,79500,1994
+S012,Store 012,Central TX,Express,35500,2019
+S013,Store 013,Central TX,Standard,81500,1987
+S014,Store 014,Central TX,Standard,72000,1980
+S015,Store 015,Central TX,Large,119500,2010
+S016,Store 016,Central TX,Standard,67500,2023
+S017,Store 017,Central TX,Large,126000,1995
+S018,Store 018,Central TX,Standard,82500,1986
+S019,Store 019,Central TX,Large,117000,2000
+S020,Store 020,Central TX,Large,112500,2009
+S021,Store 021,Central TX,Standard,60500,2017
+S022,Store 022,Central TX,Standard,58000,1992
+S023,Store 023,Central TX,Express,35000,2015
+S024,Store 024,Central TX,Standard,86000,1991
+S025,Store 025,Houston,Standard,77000,1984
+S026,Store 026,Houston,Large,122000,1978
+S027,Store 027,Houston,Standard,82000,2009
+S028,Store 028,Houston,Standard,64500,2014
+S029,Store 029,Houston,Standard,72500,2004
+S030,Store 030,Houston,Large,99500,1983
+S031,Store 031,Houston,Standard,77500,2000
+S032,Store 032,Houston,Standard,57500,2013
+S033,Store 033,Houston,Standard,74500,2004
+S034,Store 034,Houston,Standard,82500,1992
+S035,Store 035,Houston,Large,103500,1998
+S036,Store 036,Houston,Large,101000,1997
+S037,Store 037,Houston,Express,21000,1988
+S038,Store 038,Houston,Large,124000,1991
+S039,Store 039,Houston,Large,107000,2009
+S040,Store 040,Houston,Standard,72500,2014
+S041,Store 041,Houston,Standard,69000,1997
+S042,Store 042,Houston,Express,31000,1985
+S043,Store 043,Houston,Large,94000,1982
+S044,Store 044,Houston,Standard,79000,1999
+S045,Store 045,Houston,Large,126000,2001
+S046,Store 046,Houston,Large,109500,2010
+S047,Store 047,Houston,Standard,60500,1995
+S048,Store 048,Houston,Large,117000,2007
+S049,Store 049,Houston,Standard,88500,1982
+S050,Store 050,Houston,Large,103500,2023
+S051,Store 051,San Antonio,Express,37000,2010
+S052,Store 052,San Antonio,Large,120500,2023
+S053,Store 053,San Antonio,Standard,64000,2011
+S054,Store 054,San Antonio,Standard,80500,1990
+S055,Store 055,San Antonio,Large,107500,2020
+S056,Store 056,San Antonio,Standard,79500,1987
+S057,Store 057,San Antonio,Large,122000,2005
+S058,Store 058,San Antonio,Large,108500,2018
+S059,Store 059,San Antonio,Standard,72000,2011
+S060,Store 060,San Antonio,Standard,65500,2007
+S061,Store 061,San Antonio,Standard,58000,2008
+S062,Store 062,San Antonio,Large,120000,1997
+S063,Store 063,San Antonio,Large,97000,2001
+S064,Store 064,San Antonio,Large,116000,1984
+S065,Store 065,San Antonio,Large,97000,2005
+S066,Store 066,San Antonio,Large,101500,2021
+S067,Store 067,San Antonio,Standard,70500,1994
+S068,Store 068,San Antonio,Standard,65000,1979
+S069,Store 069,San Antonio,Express,34500,2000
+S070,Store 070,San Antonio,Standard,57000,1981
+S071,Store 071,DFW,Standard,78000,2001
+S072,Store 072,DFW,Express,25500,2004
+S073,Store 073,DFW,Standard,83000,1990
+S074,Store 074,DFW,Large,111500,2002
+S075,Store 075,DFW,Standard,64500,1979
+S076,Store 076,DFW,Express,20000,2020
+S077,Store 077,DFW,Large,102000,2004
+S078,Store 078,DFW,Large,116500,2009
+S079,Store 079,DFW,Large,99500,2008
+S080,Store 080,DFW,Standard,87500,2014
+S081,Store 081,DFW,Large,114500,2021
+S082,Store 082,DFW,Large,99000,1979
+S083,Store 083,DFW,Standard,74000,1995
+S084,Store 084,DFW,Express,36000,2015
+S085,Store 085,DFW,Large,98000,2022
+S086,Store 086,DFW,Large,114500,2002
+S087,Store 087,DFW,Large,129500,2021
+S088,Store 088,DFW,Large,111000,1980
+S089,Store 089,DFW,Standard,88500,2024
+S090,Store 090,DFW,Express,23000,2013
+S091,Store 091,DFW,Express,27500,2019
+S092,Store 092,DFW,Standard,71000,1992
+S093,Store 093,Rio Grande Valley,Standard,66500,2009
+S094,Store 094,Rio Grande Valley,Standard,86000,1982
+S095,Store 095,Rio Grande Valley,Standard,68000,1990
+S096,Store 096,Rio Grande Valley,Express,53000,1989
+S097,Store 097,Rio Grande Valley,Large,92500,2017
+S098,Store 098,Rio Grande Valley,Large,119500,1986
+S099,Store 099,Rio Grande Valley,Standard,80000,2019
+S100,Store 100,Rio Grande Valley,Large,101000,1992
+S101,Store 101,Rio Grande Valley,Standard,66000,2023
+S102,Store 102,Rio Grande Valley,Standard,70000,1984
+S103,Store 103,Rio Grande Valley,Large,96500,1988
+S104,Store 104,Rio Grande Valley,Large,90500,2009
+S105,Store 105,Rio Grande Valley,Large,101500,2001
+S106,Store 106,Rio Grande Valley,Standard,81500,2005
+S107,Store 107,West TX,Large,124500,2015
+S108,Store 108,West TX,Standard,57500,2012
+S109,Store 109,West TX,Large,107000,1983
+S110,Store 110,West TX,Express,22500,1996
+S111,Store 111,West TX,Large,95000,2000
+S112,Store 112,West TX,Standard,65500,2022
+S113,Store 113,West TX,Large,128000,2021
+S114,Store 114,West TX,Large,113500,2004
+S115,Store 115,West TX,Standard,84000,1982
+S116,Store 116,West TX,Large,119500,1997
+S117,Store 117,West TX,Express,25500,2006
+S118,Store 118,West TX,Express,45500,2015
+S119,Store 119,West TX,Standard,77000,2014
+S120,Store 120,West TX,Large,116500,1983
